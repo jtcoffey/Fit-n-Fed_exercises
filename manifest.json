@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "exercises": [
+    "bench-press",
+    "squat",
+    "deadlift",
+    "pull-up",
+    "push-up",
+    "running",
+    "plank",
+    "rucking"
+  ]
+}

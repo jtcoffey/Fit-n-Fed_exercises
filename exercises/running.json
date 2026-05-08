@@ -1,0 +1,17 @@
+{
+  "id": "running",
+  "name": "Running",
+  "category": "Cardio",
+  "muscle_groups": {
+    "primary": ["Quads", "Hamstrings", "Calves"],
+    "secondary": ["Glutes", "Core"]
+  },
+  "equipment": "None",
+  "trackable_fields": {
+    "weight": false,
+    "reps": false,
+    "distance": true,
+    "duration": true
+  },
+  "description": "A cardiovascular exercise performed on foot at a running pace."
+}

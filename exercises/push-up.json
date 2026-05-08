@@ -1,0 +1,17 @@
+{
+  "id": "push-up",
+  "name": "Push-Up",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Chest"],
+    "secondary": ["Triceps", "Front Delts", "Core"]
+  },
+  "equipment": "Bodyweight",
+  "trackable_fields": {
+    "weight": false,
+    "reps": true,
+    "distance": false,
+    "duration": false
+  },
+  "description": "A bodyweight horizontal pushing movement performed on the floor."
+}

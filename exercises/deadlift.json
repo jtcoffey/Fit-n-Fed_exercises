@@ -1,0 +1,17 @@
+{
+  "id": "deadlift",
+  "name": "Deadlift",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Hamstrings", "Glutes", "Lower Back"],
+    "secondary": ["Traps", "Core", "Quads"]
+  },
+  "equipment": "Barbell",
+  "trackable_fields": {
+    "weight": true,
+    "reps": true,
+    "distance": false,
+    "duration": false
+  },
+  "description": "A compound full body pulling movement lifting a barbell from the floor to a standing position."
+}

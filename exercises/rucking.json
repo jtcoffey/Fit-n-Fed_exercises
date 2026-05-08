@@ -1,0 +1,17 @@
+{
+  "id": "rucking",
+  "name": "Rucking",
+  "category": "Cardio",
+  "muscle_groups": {
+    "primary": ["Quads", "Hamstrings", "Glutes"],
+    "secondary": ["Calves", "Core", "Traps", "Upper Back"]
+  },
+  "equipment": "Weighted Backpack",
+  "trackable_fields": {
+    "weight": true,
+    "reps": false,
+    "distance": true,
+    "duration": true
+  },
+  "description": "A cardiovascular exercise performed by walking with a weighted backpack or rucksack."
+}

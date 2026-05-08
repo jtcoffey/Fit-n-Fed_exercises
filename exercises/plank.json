@@ -1,0 +1,17 @@
+{
+  "id": "plank",
+  "name": "Plank",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Core"],
+    "secondary": ["Shoulders", "Glutes"]
+  },
+  "equipment": "Bodyweight",
+  "trackable_fields": {
+    "weight": false,
+    "reps": false,
+    "distance": false,
+    "duration": true
+  },
+  "description": "An isometric core exercise held in a push-up position with forearms on the floor."
+}
