@@ -1,0 +1,17 @@
+{
+  "id": "squat",
+  "name": "Squat",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Quads", "Glutes"],
+    "secondary": ["Hamstrings", "Core", "Lower Back"]
+  },
+  "equipment": "Barbell",
+  "trackable_fields": {
+    "weight": true,
+    "reps": true,
+    "distance": false,
+    "duration": false
+  },
+  "description": "A compound lower body movement performed with a barbell across the upper back."
+}

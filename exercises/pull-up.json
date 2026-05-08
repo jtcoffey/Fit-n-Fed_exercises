@@ -1,0 +1,17 @@
+{
+  "id": "pull-up",
+  "name": "Pull-Up",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Lats"],
+    "secondary": ["Biceps", "Rear Delts", "Core"]
+  },
+  "equipment": "Pull-Up Bar",
+  "trackable_fields": {
+    "weight": true,
+    "reps": true,
+    "distance": false,
+    "duration": false
+  },
+  "description": "A bodyweight vertical pulling movement. Weight field supports added weight via belt or vest, or negative weight via band assistance."
+}

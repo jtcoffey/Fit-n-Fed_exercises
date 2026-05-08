@@ -1,0 +1,17 @@
+{
+  "id": "bench-press",
+  "name": "Bench Press",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Chest"],
+    "secondary": ["Triceps", "Front Delts"]
+  },
+  "equipment": "Barbell",
+  "trackable_fields": {
+    "weight": true,
+    "reps": true,
+    "distance": false,
+    "duration": false
+  },
+  "description": "A compound horizontal pushing movement performed on a flat bench with a barbell."
+}
