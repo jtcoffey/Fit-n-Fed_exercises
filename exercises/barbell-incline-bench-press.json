@@ -1,6 +1,6 @@
 {
-  "id": "bench-press",
-  "name": "Bench Press",
+  "id": "barbell-incline-bench-press",
+  "name": "Barbell Incline Bench Press",
   "category": "Strength",
   "muscle_groups": {
     "primary": ["Chest"],
@@ -13,5 +13,5 @@
     "distance": false,
     "duration": false
   },
-  "description": "A compound horizontal pushing movement performed on a flat bench with a barbell."
+  "description": "A compound horizontal pushing movement performed on an incline bench with a barbell."
 }
