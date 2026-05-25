@@ -1,9 +1,13 @@
 {
   "version": "1.0",
   "exercises": [
-    "bench-press",
+    "barbell-bench-press",
+    "barbell-incline-bench-press",
+    "barbell-decline-bench-press",
     "squat",
     "deadlift",
+    "romanian-deadlift",
+    "stiff-legged-deadlift",
     "pull-up",
     "push-up",
     "running",
