@@ -1,0 +1,17 @@
+{
+  "id": "dip",
+  "name": "Dip",
+  "category": "Strength",
+  "muscle_groups": {
+    "primary": ["Triceps"],
+    "secondary": ["Chest", "Front Delts", "Core"]
+  },
+  "equipment": "Bodyweight",
+  "trackable_fields": {
+    "weight": true,
+    "reps": true,
+    "distance": false,
+    "duration": false
+  },
+  "description": "A bodyweight vertical pushing movement performed from elevation."
+}
